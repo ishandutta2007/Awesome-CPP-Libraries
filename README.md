@@ -44,9 +44,11 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **Commercial C++ Support & Distribution Platforms** (Qt Commercial, Embarcadero C++Builder, Microsoft Visual C++ Redistributable)  
-
-  Commercial platforms provide **licensed support, validated builds, and distribution guarantees** for C++ libraries. Qt Commercial adds **commercial licensing for Qt** with support and indemnification. These are relevant when **SLAs or proprietary licensing terms** are required.
+| Platform | Provider / Company | Valuation / Revenue | Starting Pricing | Free Tier Limits | Description |
+| --- | --- | --- | --- | --- | --- |
+| **Microsoft Visual C++ / Visual Studio** | Microsoft Corporation | ~$3.1T valuation / $245B+ annual revenue | $45/user/month (Monthly Subscription) or $499 (Perpetual Standalone) | Free forever via Visual Studio Community: Limited to individual developers, open-source projects, classroom learning, and organizations with ≤$1M annual gross revenue & ≤250 PCs (up to 5 users). | Commercial IDE, runtime distribution, and MSVC toolchain support for modern C++ development with Azure integration. |
+| **Embarcadero C++Builder** | Idera, Inc. | ~$3B valuation / ~$250M+ annual revenue | $1,500/developer (Professional perpetual license with 1-yr update subscription) | Free forever via Community Edition: Limited to individual developers and teams of ≤5 developers with annual company revenue under $5,000 USD. Also offers a 30-day fully functional free evaluation trial. | Modern C++ IDE and component framework (VCL & FireMonkey) for cross-platform Windows and iOS/desktop development. |
+| **Qt Commercial** | The Qt Company (Qt Group Plc) | ~$1B market cap (€900M+) / €216.3M annual revenue | $495/developer/month ($5,940/year billed annually) for Qt for Application Development (Professional) | 10-day free trial of commercial edition (evaluation only, no commercial/production rights). Alternatively, Qt Community is free forever under open-source (LGPLv3/GPLv3) licensing requiring relinking/source sharing. | Commercial licensing, validated cross-platform runtime builds, LTS releases, and enterprise support/indemnification for Qt. |
 
 
 
